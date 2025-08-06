@@ -26,5 +26,5 @@ A responsive and modern Nike-themed website built with **HTML**, **CSS**, **Boot
 - Font Awesome
 
 
-## 📁 Folder Structure
+
 
